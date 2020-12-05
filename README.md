@@ -17,4 +17,11 @@ After analysis the data:
    top 5 popular baby names for males in 2018: Liam, Noa, William, James, and Oliver.
 
 
+Name trends:
 
+1) 2007 marks the highest year for unique baby names registered at over 35,000.
+
+2) First massive increase of registered baby names are from 1910 to 1930
+   Second spike from 1945 to 1960.
+   
+3) 1950 to 1955 marks the highest peak of registered births for the range of 1880 to 2018.
