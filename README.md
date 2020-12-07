@@ -43,3 +43,5 @@ Show a trend for a particular name (Emma):
 How are names influenced?
 
 - New names appear in years that sports stars, TV shows, politicians and singers appeared. For example, When new sports stars became popular so did the name. Creating a short term spike in names registered. 
+
+
